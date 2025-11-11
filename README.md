@@ -7,7 +7,8 @@ I aimed to design a simple yet fully functional game, and throughout the process
 <img src="demo.png" alt="Flappy Bird Screenshot" width="600"/>
 
 [Watch Demo Video](https://github.com/KirtiThakur1/Flappy-Bird_2D-game/demo-video.mp4?raw=true)
-[Watch Demo Video](https://raw.githubusercontent.com/KirtiThakur1/Flappy‑Bird_2D‑game/main/demo‑video.mp4)
+[Watch Demo Video](https://github.com/KirtiThakur1/Flappy-Bird_2D-game/raw/main/demo-video.mp4)
+
 
 
 
